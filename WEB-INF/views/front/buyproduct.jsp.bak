@@ -1,0 +1,264 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+  	 <!--3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="MobileOptimized" content="320"/>
+    <title>购买产品</title>
+    <%@ include file="/WEB-INF/views/include/context.jsp"%>
+    <c:set var="now" value="<%=new java.util.Date()%>" />
+   
+
+    <link href="${ctx}/static/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"  >
+    <script src="${ctx}/static/bootstrap3.0/js/bootstrap.min.js"></script>
+
+	<link href="${ctx }/static/css/waitMe.min.css" rel="stylesheet" type="text/css" />
+	<script src="${ctx }/static/js/waitMe.min.js"></script>
+
+	<style>
+		.title{width:35%;display:inline-block;text-align:right;font-size:1.2em;}
+		
+	</style>
+  </head>
+  <body >
+  <br/>	
+  	<div class="container" >
+  		<div class="fakeloader"></div>
+  		<div class="well center-block" style="max-width: 300px;background:#eee;filter: alpha(opacity=75); opacity: 0.85;">
+	
+  	 	 <form id="buyform" action="" method="post">
+  	 	 	<div style="padding-bottom:10px;"><span  class="title">适用城市：</span>
+  	 	 		<select id="city" name="cityId" style="width:11em;height:30px;">
+  	 	 			<option value='0'>选择城市</option>
+  	 	 			<c:forEach var="city" items="${citys }">
+			 		<option value="${city.id}">${city.name }</option>
+			 	</c:forEach>
+  	 	 		</select>
+  	 	 	</div>
+			 <div style="padding-bottom:10px;"><span class="title">产品类别：</span>
+			 	<select id="product" style="width:11em;height:30px;">
+			 	<option value='0'>产品类别</option>
+<%-- 			 	<c:forEach var="p" items="${products }">
+			 		<option value="${p.id}|${p.actualValue }|${p.consumeValue}|${p.effectiveFromDate}|${p.effectiveToDate}|${p.city.name}|${p.type}|${p.limitHour}|${p.effectivePeriod}">${p.name }</option>
+			 	</c:forEach> --%>
+			 	</select>
+			 </div>
+			 <div style="padding-bottom:10px;"><span class="title">生效日期：</span><input id="date" type="date" name="date" value="<fmt:formatDate value="${now}" type="date"/>" disabled='false' style="width:11em;margin-left:4px;height:30px;"></div>
+			 <div style="padding-bottom:10px;"><span class="title">销售价格：</span><span id="price"></span></div>
+			 <div id="actpriceDiv" style="padding-bottom:10px;"><span class="title">消费点数：</span><span id='actprice'></span></div>
+			 <div style="padding-bottom:10px;"><span  class="title">有效天数：</span><span id='period'></span></div>
+			 
+			 <input id="productid" name="productid" type="hidden" />
+			 <input id="save" name="save" type="hidden" value="0" />
+	   	 </form>
+	   	  <br/>
+	   	  <div style="margin-bottom:15px;letter-spacing:4px;">
+			<button id='buy' type="button" class="btn btn-primary btn-lg btn-block btn-fontsize">我要购买</button>
+		  </div>
+		   <div style="margin-bottom:15px;letter-spacing:4px;">
+			<a id="toSeatOrder" onclick="window.location.href='${ctx}/front/member/memberMenu';">
+			<button type="button" class="btn btn-success btn-lg btn-block btn-fontsize">返回</button>
+			</a>
+		  </div>
+	   	</div>    	
+	</div>
+  	
+  	<script src="${ctx}/static/plugins/jquery/jquery.backstretch.min.js"></script>
+    <script type="text/javascript">
+    	var nowdate = '<fmt:formatDate value="${now}" type="date"/>';
+    	var startTime, endTime, nowTime, pv;
+    	
+		if('${errorMsg}' != ''){
+			alert('${errorMsg}');
+			if('${op == 0}'){
+				location.href='${ctx}/front/member/memberMenu';
+			}
+		}
+		
+		function loadProducts(cityid){
+			var product = $('#product');
+			product.empty();
+			$.ajax({
+				  url:"${ctx}/front/member/getAllProductByCity/"+ cityid,
+				  type:"get",
+				  datatype:"json",
+				  success:function(data){
+					var json = jQuery.parseJSON(data); 
+					if(json.length == 0){
+						product.append("<option value='0'>产品类别</option>" );
+						clear();
+						return;
+					}
+					  $(json).each(function(i){  
+				            var x = json[i];  
+				            var value = x.id+"|"+ x.actualValue +"|"+ x.consumeValue +"|"+ x.effectiveFromDate +"|"+ x.effectiveToDate+"|"+ x.city.name +"|"+ x.type +"|"+ x.limitHour +"|"+ x.effectivePeriod;
+				            product.append("<option value='" + value + "'>" + x.name + "</option>" );  
+				            if(i == 0){
+				            	showp(value);
+				            }
+				       });  
+				  }
+			});
+		}
+		function clear(){
+			$('#date').attr('disabled', true);
+    		$('#actprice').html('');
+    		$('#price').html('');
+    		$('#period').html('');			
+		}
+    	$(function(){
+			$('#city option:eq(0)').attr('selected','selected');
+			$('#product option:eq(0)').attr('selected','selected');
+    		//document.getElementById('date').valueAsDate = new Date();
+    		
+    		$('#city').change(function(){
+    			clear();
+    			var value = $(this).children('option:selected').val();
+				loadProducts(value);
+
+    		});
+    		$('#product').change(function(){ 
+    			clear();
+    			pv = $(this).children('option:selected').val();
+    			if(pv == 0){
+    				return;
+    			}
+    			showp(pv);
+    			
+				//alert(diff + ' -- '+ pv.split("|")[3]);
+				//alert(pv.split("|")[2]); 
+			});
+/* 			$('#date').on("change", function () {
+        		//alert($(this).val());
+        		$(this).val($(this));
+        		if(pv == 0)
+        			return;
+        			
+        		showp(pv); 
+    		}); */
+    
+    		$.backstretch("${ctx}/static/images/1.jpg");
+    		
+    		$('#buy').click(function(){
+    			try{
+    							
+	    			var date = $('#date').val();
+	    			var pv = $('#product').children('option:selected').val();
+	    			if(pv == 0){
+	    				alert('请选择产品类别');
+	    				return;
+	    			}
+	    			if(date == ""){
+	    				alert('请选择日期');
+	    				return;
+	    			}
+	    			var selectTime = new Date(date.replace("-", "/").replace("-", "/")); //选择的时间
+	    			if(selectTime.getTime()<nowTime.getTime() || selectTime.getTime() > endTime.getTime()){
+	    				alert('选择的时间不在销售期内，请重新选择。');
+	    				return;
+	    			}
+	    			if($('#price').html() == ""){
+	    				alert('请重新选择产品。');
+	    				return;
+	    			}
+	    			run_waitMe();
+					setTimeout("submit()", 100); 
+					
+    			}catch(e){
+    				alert(e);
+    			}
+    			return;
+    		});
+    	});
+    	
+    	function submit(){
+    		$('#buy').attr("disabled",true);
+    		$('#buyform').submit();
+    	}
+    	function showp(pvd){
+    			var pvv = pvd.split("|");
+    			var type = pvv[6];
+    			var limith = pvv[7];
+    			var efd = pvv[8];
+    			var days = efd;
+    			if(type == 1){
+    				days = efd;
+    			}else{
+    				days = limith;
+    			}
+    			days = days == 'null'?0:days;
+
+    			$('#price').html(pvv[1] + '点');
+
+    			if(pvv[6] == 1){
+    				$('#actprice').html(pvv[2] + '点');
+    				$('#actpriceDiv').show();
+    			}else{
+    				$('#actpriceDiv').hide();
+    			}
+
+    			startTime = new Date(pvv[3].replace("-", "/").replace("-", "/")); //开始时间
+    			endTime = new Date(pvv[4].replace("-", "/").replace("-", "/")); //结束时间
+				nowTime = new Date(nowdate.replace("-", "/").replace("-", "/")); //当前时间
+
+				//var daytime = endTime.getTime() - startTime.getTime();  //时间差的毫秒数
+				//var days = Math.floor(daytime/(24*3600*1000));
+				
+				//如果开始日期大于当前日期
+				if(startTime > nowTime || endTime < nowTime )
+				{
+				    //alert("time1 大于 time2");
+				    $('#date').attr('disabled', true);
+				}else{
+					$('#date').attr('disabled', false);
+				}
+
+				//var diff = parseInt((endTime.getTime() - nowTime.getTime()) / (1000 * 60 * 60 * 24)); 
+
+/* 				if(diff < 0)
+					days = 0;
+				if(0 < diff && diff < days){
+					days = diff;
+				}
+				
+
+						var now = new Date();
+			                var year = now.getFullYear();
+			                var month =(now.getMonth() + 1).toString();
+			                var day = (now.getDate()).toString();
+			                if (month.length == 1) {
+			                    month = "0" + month;
+			                }
+			                if (day.length == 1) {
+			                    day = "0" + day;
+			                }
+			                var dt = year +"-"+ month+ "-" +  day;		
+			                
+			                if(pvv[4] == dt){
+				    			day = 1;
+				    		}	 */	
+				
+				$('#period').html(days + '天');
+				//$('#city').html(pvv[5]);
+				var id = pvv[0];
+    			$('#productid').val(id);
+    	}
+		function run_waitMe() {
+			$('body').waitMe({
+				effect : 'bounce',
+				text : '正在处理，请稍候...',
+				bg : 'rgba(255,255,255,0.5)',
+				color : '#000',
+				sizeW : '',
+				sizeH : '',
+				source : 'img.svg'
+		});
+	}
+    </script>
+  </body>
+</html>

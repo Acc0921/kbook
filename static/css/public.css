@@ -1,0 +1,194 @@
+*{padding:0;margin:0;}
+html{width:100%;height:100%;}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin:0; 
+    padding:0;
+    font-family: "pingfang";
+}
+@font-face{
+　　font-family: "pingfang";
+　　src:url('../font/PingFang.ttc');
+}
+body{
+    /*max-width:750px;*/
+    padding-top:0.38rem;
+    min-width: 280px;
+    color:#000;
+    font-size: 0.15rem;
+    word-break:break-all;
+    background-color: #fff;
+    font-family: "pingfang";
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6{font-size:100%;font-weight: normal;}
+table{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+tbody,tr{
+    display:block;
+    width:100%;
+}
+fieldset, img{ border:0; }
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style:normal;
+    font-weight:normal;
+}
+li{list-style:none;}
+i{font-style: normal!important;}
+a{ 
+    color: #fff; 
+    text-decoration:none;
+}
+button,input{
+    border:0;
+    font-family: "pingfang"!important;
+    font-size:0.16rem;
+    background-color: #fff;
+    letter-spacing: 0.01rem;
+}
+
+.clearfix::after{
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+} 
+.clearfix{display: inline-block;}
+.hide{display:none!important;}
+.layerBg{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background: rgba(0,0,0,0.43);
+    margin-top:0.36rem;
+    display:none;
+    z-index: 9998;
+}
+
+/*图片盒子*/
+.imgBox img{
+    display:block;
+    margin:0.1rem auto;
+}
+
+/*placeholder的字体颜色*/
+::-webkit-input-placeholder{color:#aaa;}
+:-moz-placeholder{color:#aaa;}
+::-moz-placeholder{color:#aaa;}
+:-ms-input-placeholder {color:#aaa;}
+
+.fl{float:left;}
+.fr{float:right;}
+.tl{text-align: left;}
+.tc{text-align: center;}
+.tr{text-align: right;}
+
+.font11{font-size:0.11rem!important;}
+.font12{font-size:0.12rem!important;}
+.font13{font-size:0.13rem!important;}
+.font14{font-size:0.14rem!important;}
+.font15{font-size:0.15rem!important;}
+.font16{font-size:0.16rem!important;}
+.font17{font-size:0.17rem!important;}
+.font18{font-size:0.18rem!important;}
+
+/*radio样式*/
+input[type='checkbox'].wap_checkbox, input[type='radio'].wap_radio {
+    width: 0.2rem;
+    height: 0.2rem;
+}
+input[type='checkbox'],input[type='radio'] {
+    display: inline-block;
+    width: 0.2rem;
+    height: 0.2rem;
+    border: 0;
+    outline: 0 !important;
+    background-color: transparent;
+    vertical-align: bottom;
+}
+input[type='checkbox'], input[type='radio'] {
+    box-sizing: border-box;
+    padding: 0;
+    border-color:transparent!important;
+}
+input {
+    cursor: pointer;
+    line-height: normal;
+}
+input[type='checkbox'].wap_checkbox:before, input[type='radio'].wap_radio:before {
+    content: "";
+    display: inline-block;
+    width: 0.2rem;
+    height: 0.2rem;
+    background: url(../img/icon_08_1.png) no-repeat center center;
+    background-size: 100%;
+}
+input[type='checkbox'].wap_checkbox:checked:before, input[type='radio'].wap_radio:checked:before {
+    background:url(../img/icon_08.png) no-repeat center 0;
+    background-size:  0.2rem;
+}
+
+header{
+    width:100%;
+    height:0.38rem;
+    line-height:0.38rem;
+    background-color: #fefefe;
+    text-align: center;
+    font-size: 15px;
+    box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.2);
+    position:fixed;
+    top:0;
+    left:0;
+    overflow:hidden;
+    z-index: 99;
+}
+header>a{
+    float:left;
+    display:block;
+    float:left;
+    width:0.2rem;
+    height:0.1rem;
+    padding:0.14rem 0.2rem;
+    margin-left:0;
+    position:absolute;
+    left:0;
+    top:0;
+}
+header>a>em{
+    display:block;
+    width:0.1rem;
+    height:0.1rem;
+    border-width:0.01rem;
+    border-style: solid solid dashed dashed;
+    border-color:#666 #666 transparent transparent;
+    transform: rotate(-135deg);
+}
+
+/*弹窗样式*/
+.layui-m-layer0 .layui-m-layerchild{
+    border-radius:0.12rem;
+}
+.layui-m-layercont{
+    padding:0.2rem!important;
+}
+.layui-m-layerchild>h3{
+    position:relative;
+    height:45px!important;
+    line-height:45px!important;
+}
+.layui-m-layerchild>h3::after{
+    content:'';
+    width:90%;
+    height:0.01rem;
+    background-color: #ddd;
+    position:absolute;
+    left:5%;
+    bottom:0;
+}
+.laydate-time-list{padding-bottom:0!important;overflow:hidden!important;}
+.laydate-time-list>li{width:50%!important;}
+.laydate-time-list>li:last-child { display: none!important;} 

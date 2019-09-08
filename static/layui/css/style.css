@@ -1,0 +1,76 @@
+/*字体颜色*/
+.textRed{color:red;}
+
+/*按钮背景色*/
+.bgGreen{background-color: #5FB878!important;}
+
+.hide{display:none;}
+.textIpt{
+    height:38px;
+    line-height:38px;
+    font-size: 15px;
+}
+.pagetitle{
+    padding:10px 10px;
+    margin:0 10px 30px;
+    font-size:18px;
+    color:#009688;
+    border-bottom:3px solid #009688;
+}
+.payFor{
+    width:160px!important;
+    display:inline-block!important;
+    margin-right:5px!important;
+}
+
+.layui-container{
+    background-color: #f8f8f8!important;
+    padding:20px;
+}
+.layui-input, .layui-select, .layui-textarea{
+    border-radius: 5px!important;
+}
+.layui-form-label{
+    width:130px!important;
+}
+.layui-input-block{
+    margin-left:160px!important;
+}
+.yzcode{
+    padding:2px 0!important;
+}
+.yzcode .layui-btn{
+    height:34px!important;
+    line-height:34px!important;
+    background-color: #5FB878;
+}
+.centerBox{
+    width:500px;
+    padding:30px;
+    margin:0 auto;
+}
+.twoBtnBox{
+    padding:20px;
+    text-align: center;
+}
+.twoBtnBox>.layui-btn{
+    width:95px;
+    margin:20px 30px 0;
+}
+.layerSecond{display:none;}
+.layui-upload-img{
+    max-width:180px!important;
+}
+.errorText{
+    margin-top:10px;
+}
+.demo-reload{
+    padding:0 10px;
+    margin-left:15px;
+    vertical-align: middle;
+    background-color: #FF5722;
+}
+.verticalTop{
+    vertical-align: top;
+}
+a{text-decoration: underline;color:#5FB878;}

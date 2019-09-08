@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="338.95001mm"
+   height="190.57001mm"
+   viewBox="0 0 5200 2000"
+   preserveAspectRatio="xMinYMin meet"
+   id="svg7177"
+   sodipodi:docname="12.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="720px"
+   height="540px"
+   viewBox="0 0 4000 3000"
+   preserveAspectRatio="xMinYMin meet"
+   id="svg12"
+   sodipodi:docname="12.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata7181">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview7179"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="100.93062"
+     inkscape:cy="265.20207"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs6283">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0.16011047,0.16011047 L 1281.0438,0.16011047 L 1281.0438,720.65721 L 0.16011047,720.65721 z"
+         id="path6279" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.74745321"
+     d="m 2616.9491,236.10297 -2.7394,1902.27293 H 1377.1065 v 614.397 l -1162.73266,2.3137 V 236.10297 Z"
+     id="path6287"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.20504226px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2623.5951,233.1735 -2.8579,2050.9826 H 1277.0586 l 3.7366,-3.2517 v 663.514 L 13.829165,2946.9049 V 233.1735 Z m -2606.02919,6.31188 3.516917,-3.0603 V 2943.8445 l -3.516917,-3.2518 1259.49269,-2.4864 -3.7368,3.2518 V 2277.844 h 1343.679 l -3.5168,3.0604 2.8576,-2044.47932 3.7364,3.0603 z"
+     id="path6289"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#5b9bd5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 1757.5432,2231.1703 h 182.2044 v -25.4479 h -53.6249 l 107.0993,-63.3526 106.949,63.3526 h -53.4745 v 25.4479 h 182.0533 v 164.7884 h -471.2066 z"
+     id="path6291"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#41719c;fill-opacity:1;fill-rule:nonzero;stroke:#41719c;stroke-width:0.1156089px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1752.5864,2228.2344 h 187.1612 l -5.1074,2.9359 v -25.4479 l 5.1074,3.0256 h -65.6417 l 119.1161,-70.5601 119.1157,70.5601 h -65.6412 l 4.9569,-3.0256 v 25.4479 l -4.9569,-2.9359 h 187.0101 v 170.6608 h -481.1202 z m 10.0641,167.7243 -5.1073,-3.0254 h 471.2066 l -4.9572,3.0254 v -164.7884 l 4.9572,2.9363 h -187.0104 v -31.3201 h 58.4316 l -3.4551,5.0714 -107.0992,-63.4415 h 7.06 l -106.9492,63.4415 -3.6048,-5.0714 h 58.5817 v 31.3201 h -187.1612 l 5.1073,-2.9363 z"
+     id="path6293"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:123.11074829px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.77645683"
+     x="1410.4957"
+     y="3049.8525"
+     id="text6299"
+     transform="scale(1.2992892,0.76965159)"><tspan
+       sodipodi:role="line"
+       x="1410.4957"
+       y="3049.8525"
+       id="tspan6297"
+       style="stroke-width:5.77645683"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:123.11074829px;fill:#ffffff;stroke-width:5.77645683"
+         id="tspan6295">门口</tspan></tspan></text>
+  <path
+     style="fill:#5b9bd5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.36382437"
+     d="m 2592.1934,2508.3423 v 174.4915 h 32.409 v -48.145 l 80.4393,96.0118 -80.4393,96.0117 v -47.8668 h -32.409 v 174.2128 h -208.909 v -444.716 z"
+     id="path6301"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#41719c;fill-opacity:1;fill-rule:nonzero;stroke:#41719c;stroke-width:0.2547287px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2596.157,2503.6115 v 179.2223 l -3.9636,-4.7309 h 32.409 l -3.9638,4.7309 v -59.2765 l 89.7656,107.1433 -89.7656,107.1438 v -58.9989 l 3.9638,4.4526 h -32.409 l 3.9636,-4.4526 v 178.944 h -216.8364 v -454.178 z m -212.8726,9.4622 3.7304,-4.7314 v 444.716 l -3.7304,-4.4525 h 208.909 l -3.7305,4.4525 v -178.9436 h 39.87 v 52.5976 l -6.5284,-3.3397 80.4395,-96.0118 v 6.6792 l -80.4395,-96.0117 6.5284,-3.3395 v 52.5978 h -39.87 v -178.9443 l 3.7305,4.7314 z"
+     id="path6303"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:135.6289978px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.36382437"
+     transform="matrix(0,1.0925174,-0.91531723,0,0,0)"
+     x="2362.7524"
+     y="-2670.3884"
+     id="text6309"><tspan
+       sodipodi:role="line"
+       x="2362.7524"
+       y="-2670.3884"
+       id="tspan6307"
+       style="stroke-width:6.36382437"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:135.6289978px;fill:#ffffff;stroke-width:6.36382437"
+         id="tspan6305">门口</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:213.92185974px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.68505812"
+     x="776.20569"
+     y="205.75964"
+     id="text6319"
+     transform="scale(1.185006,0.84387761)"><tspan
+       sodipodi:role="line"
+       x="776.20569"
+       y="205.75964"
+       id="tspan6317"
+       style="stroke-width:6.68505812"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:213.92185974px;fill:#5b9bd5;stroke-width:6.68505812"
+         id="tspan6315">雨露舱</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:208.26121521px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.50816298"
+     x="2072.9277"
+     y="230.70854"
+     id="text6329"
+     transform="scale(1.3814457,0.72387936)"><tspan
+       sodipodi:role="line"
+       x="2072.9277"
+       y="230.70854"
+       id="tspan6327"
+       style="stroke-width:6.50816298"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:208.26121521px;fill:#5b9bd5;stroke-width:6.50816298"
+         id="tspan6325">阳光舱</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.71365738"
+     d="M 2716.763,222.66716 V 2977.6217 H 3979.2243 V 222.66716 Z"
+     id="path6331"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.18343234px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2711.647,228.17431 H 3911.3243 V 2989.2022 H 2711.647 Z m 6.2395,2758.00249 -3.0252,-2.8475 h 1193.2481 l -3.0249,2.8475 V 231.19965 l 3.0249,2.84733 H 2714.8613 l 3.0252,-2.84733 z"
+     id="path6333"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="M 1854.6268,236.27087 V 518.2414 h 425.8425 V 236.27087 Z"
+     id="path_t_雨露01"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1849.6698,232.98868 h 435.7567 V 521.5236 h -435.7567 z m 9.9139,285.25272 -4.9569,-3.38169 h 425.8425 l -5.1072,3.38169 V 236.27087 l 5.1072,3.28222 h -425.8425 l 4.9569,-3.28222 z"
+     id="path6337"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1854.6268,522.71708 v 281.97053 h 425.8425 V 522.71708 Z"
+     id="path_t_雨露02"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1849.6698,519.4349 h 435.7567 v 288.53494 h -435.7567 z m 9.9139,285.25271 -4.9569,-3.38165 h 425.8425 l -5.1072,3.38165 V 522.71708 l 5.1072,3.28219 h -425.8425 l 4.9569,-3.28219 z"
+     id="path6341"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1854.6268,807.87032 v 281.87108 h 425.8425 V 807.87032 Z"
+     id="path_t_雨露03"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1849.6698,804.48868 h 435.7567 v 288.63442 h -435.7567 z m 9.9139,285.25272 -4.9569,-3.2822 h 425.8425 l -5.1072,3.2822 V 807.87032 l 5.1072,3.28225 h -425.8425 l 4.9569,-3.28225 z"
+     id="path6345"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1854.6268,1087.9511 v 281.9705 h 425.8425 v -281.9705 z"
+     id="path_t_雨露04"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1849.6698,1084.6689 h 435.7567 v 288.5348 h -435.7567 z m 9.9139,285.2527 -4.9569,-3.2821 h 425.8425 l -5.1072,3.2821 v -281.9705 l 5.1072,3.3817 h -425.8425 l 4.9569,-3.3817 z"
+     id="path6349"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1854.6268,1373.1043 v 281.9705 h 425.8425 v -281.9705 z"
+     id="path_t_雨露05"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1849.6698,1369.8221 h 435.7567 v 288.535 h -435.7567 z m 9.9139,285.2527 -4.9569,-3.3816 h 425.8425 l -5.1072,3.3816 v -281.9705 l 5.1072,3.2822 h -425.8425 l 4.9569,-3.2822 z"
+     id="path6353"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1854.6268,1653.2844 v 281.8712 h 425.8425 v -281.8712 z"
+     id="path_t_雨露06"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1849.6698,1649.9029 h 435.7567 v 288.6342 h -435.7567 z m 9.9139,285.2527 -4.9569,-3.2823 h 425.8425 l -5.1072,3.2823 v -281.8712 l 5.1072,3.2823 h -425.8425 l 4.9569,-3.2823 z"
+     id="path6357"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.792099px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.77311516"
+     x="2235.7839"
+     y="376.21619"
+     id="text6363"
+     transform="scale(0.8554873,1.1689244)"><tspan
+       sodipodi:role="line"
+       x="2235.7839"
+       y="376.21619"
+       id="tspan6361"
+       style="stroke-width:8.77311516"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.792099px;fill:#000000;stroke-width:8.77311516"
+         id="tspan6359">雨露01</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.49555206px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.05131054"
+     x="2306.0764"
+     y="584.93469"
+     id="text6381"
+     transform="scale(0.82919362,1.2059909)"><tspan
+       sodipodi:role="line"
+       x="2306.0764"
+       y="584.93469"
+       id="tspan6379"
+       style="stroke-width:9.05131054"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.49555206px;fill:#000000;stroke-width:9.05131054"
+         id="tspan6377">雨露02</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.83881092"
+     x="2497.2659"
+     y="767.36505"
+     id="text6393"
+     transform="scale(0.76282471,1.3109172)"><tspan
+       sodipodi:role="line"
+       x="2497.2659"
+       y="767.36505"
+       id="tspan6391"
+       style="stroke-width:9.83881092"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;fill:#000000;stroke-width:9.83881092"
+         id="tspan6389">雨露03</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.08855438px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.32120609"
+     x="2373.97"
+     y="1030.2651"
+     id="text6405"
+     transform="scale(0.80518427,1.2419517)"><tspan
+       sodipodi:role="line"
+       x="2373.97"
+       y="1030.2651"
+       id="tspan6403"
+       style="stroke-width:9.32120609"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.08855438px;fill:#000000;stroke-width:9.32120609"
+         id="tspan6401">雨露04</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.83881092"
+     x="2493.0193"
+     y="1196.5905"
+     id="text6417"
+     transform="scale(0.76282471,1.3109172)"><tspan
+       sodipodi:role="line"
+       x="2493.0193"
+       y="1196.5905"
+       id="tspan6415"
+       style="stroke-width:9.83881092"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;fill:#000000;stroke-width:9.83881092"
+         id="tspan6413">雨露05</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.58039093px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.58350372"
+     x="2427.6851"
+     y="1438.9092"
+     id="text6429"
+     transform="scale(0.78314665,1.2769001)"><tspan
+       sodipodi:role="line"
+       x="2427.6851"
+       y="1438.9092"
+       id="tspan6427"
+       style="stroke-width:9.58350372"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.58039093px;fill:#000000;stroke-width:9.58350372"
+         id="tspan6425">雨露06</tspan></tspan></text>
+  <path
+     style="fill:#a5a5a5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.33321714"
+     d="m 1076.5834,1664.3422 73.9701,-109.1801 v 54.5131 h 29.6299 V 1445.982 H 1372.36 v 436.5664 h -192.1766 v -163.693 h -29.6299 v 54.5129 z"
+     id="path6437"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:#787878;stroke-width:0.1267518px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1071.6799,1664.3422 82.3164,-121.4996 v 66.8326 l -3.4428,-5.0819 h 29.6299 l -3.443,5.0819 v -168.775 h 199.0624 V 1887.63 h -199.0624 v -168.7746 l 3.443,5.0815 h -29.6299 l 3.4428,-5.0815 v 66.9863 z m 81.3776,105.4843 -5.9469,3.5418 v -59.5948 h 36.62 v 168.7749 l -3.5472,-5.0817 H 1372.36 l -3.443,5.0817 V 1445.982 l 3.443,5.2357 h -192.1766 l 3.5472,-5.2357 v 168.9288 h -36.62 v -59.7487 l 5.9469,3.6957 -73.9703,109.0262 v -7.2378 z"
+     id="path6439"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:118.74783325px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.33321667"
+     x="1487.9757"
+     y="1330.5558"
+     id="text6445"
+     transform="scale(0.823108,1.2149074)"><tspan
+       sodipodi:role="line"
+       x="1487.9757"
+       y="1330.5558"
+       id="tspan6443"
+       style="stroke-width:6.33321667"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:118.74783325px;fill:#ffffff;stroke-width:6.33321667"
+         id="tspan6441">空</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:118.74783325px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.33321667"
+     x="1487.9757"
+     y="1463.3918"
+     id="text6451"
+     transform="scale(0.823108,1.2149074)"><tspan
+       sodipodi:role="line"
+       x="1487.9757"
+       y="1463.3918"
+       id="tspan6449"
+       style="stroke-width:6.33321667"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:118.74783325px;fill:#ffffff;stroke-width:6.33321667"
+         id="tspan6447">调</tspan></tspan></text>
+  <path
+     style="fill:#a5a5a5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.42322159"
+     d="m 3162.7404,1365.4281 c 0,-34.2363 15.9293,-62.5699 35.6725,-62.5699 0,0 0,0 0,0 v 0 h 240.5083 v 0 c 19.7435,0 35.6726,28.3336 35.6726,62.5699 0,0 0,0 0,0 v 0 250.2798 0 c 0,34.6298 -15.9291,62.5698 -35.6726,62.5698 0,0 0,0 0,0 v 0 h -240.5083 v 0 c -19.7432,0 -35.6725,-27.94 -35.6725,-62.5698 0,0 0,0 0,0 z"
+     id="path6453"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:#787878;stroke-width:0.29713383px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3159.1507,1365.4281 v -6.6898 l 0.6731,-7.0835 1.1216,-6.6898 1.1219,-6.2963 3.8139,-11.8057 4.7117,-10.2316 5.8333,-8.2639 6.7305,-6.2964 3.5896,-2.361 3.8142,-1.9677 3.8139,-0.7875 4.0385,-0.3932 h 240.7326 l 3.8144,0.3932 4.0382,0.7875 3.814,1.9677 3.5897,2.361 6.7309,6.2964 5.8328,8.2639 4.7115,10.2316 3.59,11.8057 1.346,6.2963 0.8975,6.6898 0.673,7.0835 0.2241,6.6898 v 250.2798 l -0.2241,7.0834 -0.673,6.6898 -0.8975,6.69 -1.346,6.6898 -3.59,11.4121 -4.7115,10.2315 -5.8328,8.6575 -6.7309,6.2964 -3.5897,2.3611 -3.814,1.574 -4.0382,1.1807 -3.8144,0.3933 h -240.7326 l -4.0385,-0.3933 -3.8139,-1.1807 -3.8142,-1.574 -3.5896,-2.3611 -6.7305,-6.2964 -5.8333,-8.6575 -4.7117,-10.2315 -3.8139,-11.4121 -1.1219,-6.6898 -1.1216,-6.69 -0.6731,-6.6898 v -7.0834 z m 7.4037,250.2798 v -0.3934 l 0.2243,6.2964 -0.2243,-0.3933 0.6731,5.9029 v -0.3933 l 0.8974,5.9027 -0.2241,-0.3931 1.1217,5.5093 -0.2242,-0.7876 3.3652,10.6254 -0.4484,-1.1807 4.4872,9.4446 -0.673,-0.7866 5.3844,7.4769 -0.6729,-0.7875 6.0576,5.9029 -0.4483,-0.3932 3.365,1.9675 h -0.4485 l 3.3655,1.5741 -0.2242,-0.3932 3.5896,1.1806 h -0.4489 3.5896 -0.2242 240.5085 v 0 h 3.5899 -0.4491 l 3.5896,-1.1806 -0.449,0.3932 3.3654,-1.5741 h -0.224 l 3.3652,-1.9675 -0.6732,0.3932 6.0579,-5.9029 -0.4491,0.7875 5.1603,-7.4769 -0.4493,0.7866 4.263,-9.4446 -0.2242,1.1807 3.1409,-10.6254 -0.2241,0.7876 1.1218,-5.5093 v 0.3931 l 0.8973,-5.9027 -0.2244,0.3933 0.6733,-5.9029 v 0.3933 l 0.2241,-6.2964 v 0.3934 -250.2798 0.3932 l -0.2241,-6.2963 v 0.7865 l -0.6733,-6.2963 0.2244,0.7865 -0.8973,-6.2963 v 0.7874 l -1.1218,-5.9028 0.2241,1.1806 -3.1409,-10.6252 0.2242,0.7875 -4.263,-9.0509 0.4493,0.7874 -5.1603,-7.4768 0.4491,0.3931 -6.0579,-5.5094 0.6732,0.3933 -3.3652,-2.3613 0.224,0.3933 -3.3654,-1.5742 h 0.449 l -3.5896,-0.7865 h 0.4491 l -3.5899,-0.3932 v 0 h -240.5085 0.2242 l -3.5896,0.3932 h 0.4489 l -3.5896,0.7865 h 0.2242 l -3.3655,1.5742 0.4485,-0.3933 -3.365,2.3613 0.4483,-0.3933 -6.0576,5.5094 0.6729,-0.3931 -5.3844,7.4768 0.673,-1.1807 -4.4872,9.4446 0.4484,-0.7873 -3.3652,10.625 0.2242,-1.1806 -1.1217,5.9028 0.2241,-0.7874 -0.8974,6.2963 v -0.7864 l -0.6731,6.2962 0.2243,-0.7865 -0.2243,6.2964 v -0.3932 z"
+     id="path6455"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:139.18537903px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.42322159"
+     x="4267.936"
+     y="1194.8104"
+     id="text6461"
+     transform="scale(0.75506352,1.3243919)"><tspan
+       sodipodi:role="line"
+       x="4267.936"
+       y="1194.8104"
+       id="tspan6459"
+       style="stroke-width:7.42322159"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:139.18537903px;fill:#ffffff;stroke-width:7.42322159"
+         id="tspan6457">空调</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1425.0282,238.26008 v 281.97053 h 425.8433 V 238.26008 Z"
+     id="path_t_雨露12"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1420.0713,234.97792 h 435.7573 v 288.53487 h -435.7573 z m 9.9138,285.25269 -4.9569,-3.3817 h 425.8433 l -5.1072,3.3817 V 238.26008 l 5.1072,3.28223 h -425.8433 l 4.9569,-3.28223 z"
+     id="path6465"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1425.0282,524.70631 v 281.9705 h 425.8433 v -281.9705 z"
+     id="path_t_雨露11"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1420.0713,521.42412 h 435.7573 v 288.53485 h -435.7573 z m 9.9138,285.25269 -4.9569,-3.38163 h 425.8433 l -5.1072,3.38163 v -281.9705 l 5.1072,3.28223 h -425.8433 l 4.9569,-3.28223 z"
+     id="path6469"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1425.0282,809.85958 v 281.87112 h 425.8433 V 809.85958 Z"
+     id="path_t_雨露10"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1420.0713,806.47789 h 435.7573 v 288.63431 h -435.7573 z m 9.9138,285.25281 -4.9569,-3.2823 h 425.8433 l -5.1072,3.2823 V 809.85958 l 5.1072,3.28215 h -425.8433 l 4.9569,-3.28215 z"
+     id="path6473"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1425.0282,1089.9403 v 281.9705 h 425.8433 v -281.9705 z"
+     id="path_t_雨露09"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1420.0713,1086.6581 h 435.7573 v 288.5348 h -435.7573 z m 9.9138,285.2527 -4.9569,-3.2823 h 425.8433 l -5.1072,3.2823 v -281.9705 l 5.1072,3.3817 h -425.8433 l 4.9569,-3.3817 z"
+     id="path6477"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1425.0282,1368.9269 v 281.8711 h 425.8433 v -281.8711 z"
+     id="path_t_雨露08"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1420.0713,1365.5453 h 435.7573 v 288.6344 h -435.7573 z m 9.9138,285.2527 -4.9569,-3.2823 h 425.8433 l -5.1072,3.2823 v -281.8711 l 5.1072,3.2823 h -425.8433 l 4.9569,-3.2823 z"
+     id="path6481"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10722828"
+     d="m 1425.0282,1655.2738 v 281.871 h 425.8433 v -281.871 z"
+     id="path_t_雨露07"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12222885px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1420.0713,1651.892 h 435.7573 v 288.6343 h -435.7573 z m 9.9138,285.2528 -4.9569,-3.2822 h 425.8433 l -5.1072,3.2822 v -281.871 l 5.1072,3.282 h -425.8433 l 4.9569,-3.282 z"
+     id="path6485"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.49555206px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.05131054"
+     x="1783.8391"
+     y="364.78757"
+     id="text6491"
+     transform="scale(0.82919362,1.2059909)"><tspan
+       sodipodi:role="line"
+       x="1783.8391"
+       y="364.78757"
+       id="tspan6489"
+       style="stroke-width:9.05131054"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.49555206px;fill:#000000;stroke-width:9.05131054"
+         id="tspan6487">雨露12</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.49555206px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.05131054"
+     x="1787.9874"
+     y="598.73322"
+     id="text6509"
+     transform="scale(0.82919362,1.2059909)"><tspan
+       sodipodi:role="line"
+       x="1787.9874"
+       y="598.73322"
+       id="tspan6507"
+       style="stroke-width:9.05131054"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.49555206px;fill:#000000;stroke-width:9.05131054"
+         id="tspan6505">雨露11</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.83881092"
+     x="1935.0157"
+     y="768.88239"
+     id="text6521"
+     transform="scale(0.76282471,1.3109172)"><tspan
+       sodipodi:role="line"
+       x="1935.0157"
+       y="768.88239"
+       id="tspan6519"
+       style="stroke-width:9.83881092"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;fill:#000000;stroke-width:9.83881092"
+         id="tspan6517">雨露10</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.58039093px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.58350372"
+     x="1892.2207"
+     y="1002.7133"
+     id="text6533"
+     transform="scale(0.78314665,1.2769001)"><tspan
+       sodipodi:role="line"
+       x="1892.2207"
+       y="1002.7133"
+       id="tspan6531"
+       style="stroke-width:9.58350372"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.58039093px;fill:#000000;stroke-width:9.58350372"
+         id="tspan6529">雨露09</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.83881092"
+     x="1929.8507"
+     y="1198.108"
+     id="text6545"
+     transform="scale(0.76282471,1.3109172)"><tspan
+       sodipodi:role="line"
+       x="1929.8507"
+       y="1198.108"
+       id="tspan6543"
+       style="stroke-width:9.83881092"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:130.97917175px;fill:#000000;stroke-width:9.83881092"
+         id="tspan6541">雨露08</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.08855438px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.32120609"
+     x="1827.7031"
+     y="1481.9391"
+     id="text6557"
+     transform="scale(0.80518427,1.2419517)"><tspan
+       sodipodi:role="line"
+       x="1827.7031"
+       y="1481.9391"
+       id="tspan6555"
+       style="stroke-width:9.32120609"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.08855438px;fill:#000000;stroke-width:9.32120609"
+         id="tspan6553">雨露07</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 643.22338,237.45894 V 522.11878 H 1068.9918 V 237.45894 Z"
+     id="path_t_雨露13"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 638.19137,234.14544 H 1074.0239 V 525.4323 H 638.19137 Z m 9.98894,287.97334 -4.95693,-3.3637 h 425.76842 l -5.032,3.3637 V 237.45894 l 5.032,3.36367 H 643.22338 l 4.95693,-3.36367 z"
+     id="path6567"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 643.22338,526.63719 V 811.29704 H 1068.9918 V 526.63719 Z"
+     id="path_t_雨露14"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 638.19137,523.32372 H 1074.0239 V 814.61056 H 638.19137 Z m 9.98894,287.97332 -4.95693,-3.3637 h 425.76842 l -5.032,3.3637 V 526.63719 l 5.032,3.36373 H 643.22338 l 4.95693,-3.36373 z"
+     id="path6571"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 643.22338,814.51009 V 1099.1197 H 1068.9918 V 814.51009 Z"
+     id="path_t_雨露15"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 638.19137,811.14641 H 1074.0239 V 1102.4835 H 638.19137 Z m 9.98894,287.97329 -4.95693,-3.3636 h 425.76842 l -5.032,3.3636 V 814.51009 l 5.032,3.31352 H 643.22338 l 4.95693,-3.31352 z"
+     id="path6575"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 643.22338,1097.3124 V 1381.922 H 1068.9918 V 1097.3124 Z"
+     id="path_t_雨露16"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 638.19137,1093.9486 h 435.83253 v 291.3371 H 638.19137 Z m 9.98894,287.9734 -4.95693,-3.3133 h 425.76842 l -5.032,3.3133 v -284.6096 l 5.032,3.3637 H 643.22338 l 4.95693,-3.3637 z"
+     id="path6579"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 643.22338,1385.1351 V 1669.795 H 1069.0668 V 1385.1351 Z"
+     id="path_t_雨露17"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12281039px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 638.26651,1381.8216 h 435.75739 v 291.2868 H 638.26651 Z m 9.9138,287.9734 -4.95693,-3.3134 h 425.84342 l -5.107,3.3134 v -284.6599 l 5.107,3.4139 H 643.22338 l 4.95693,-3.4139 z"
+     id="path6583"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="m 643.22338,1667.9876 v 284.6598 h 425.84342 v -284.6598 z"
+     id="path_t_雨露18"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12281039px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 638.26651,1664.6741 h 435.75739 v 291.2868 H 638.26651 Z m 9.9138,287.9733 -4.95693,-3.4138 h 425.84342 l -5.107,3.4138 v -284.6598 l 5.107,3.3135 H 643.22338 l 4.95693,-3.3135 z"
+     id="path6587"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34233093px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.34026718"
+     x="872.74945"
+     y="353.81311"
+     id="text6593"
+     transform="scale(0.80354095,1.2444916)"><tspan
+       sodipodi:role="line"
+       x="872.74945"
+       y="353.81311"
+       id="tspan6591"
+       style="stroke-width:9.34026718"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34233093px;fill:#000000;stroke-width:9.34026718"
+         id="tspan6589">雨露13</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.82724762px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.60204601"
+     x="896.5697"
+     y="569.28918"
+     id="text6605"
+     transform="scale(0.78163426,1.2793707)"><tspan
+       sodipodi:role="line"
+       x="896.5697"
+       y="569.28918"
+       id="tspan6603"
+       style="stroke-width:9.60204601"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.82724762px;fill:#000000;stroke-width:9.60204601"
+         id="tspan6601">雨露14</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:131.21961975px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.85687351"
+     x="911.81464"
+     y="772.43744"
+     id="text6617"
+     transform="scale(0.76142693,1.3133237)"><tspan
+       sodipodi:role="line"
+       x="911.81464"
+       y="772.43744"
+       id="tspan6615"
+       style="stroke-width:9.85687351"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:131.21961975px;fill:#000000;stroke-width:9.85687351"
+         id="tspan6613">雨露15</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.34026718"
+     x="872.1264"
+     y="1036.928"
+     id="text6629"
+     transform="scale(0.80354095,1.2444916)"><tspan
+       sodipodi:role="line"
+       x="872.1264"
+       y="1036.928"
+       id="tspan6627"
+       style="stroke-width:9.34026718"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;fill:#000000;stroke-width:9.34026718"
+         id="tspan6625">雨露16</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.82724762px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.60204601"
+     x="883.20068"
+     y="1237.7042"
+     id="text6641"
+     transform="scale(0.78163426,1.2793707)"><tspan
+       sodipodi:role="line"
+       x="883.20068"
+       y="1237.7042"
+       id="tspan6639"
+       style="stroke-width:9.60204601"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.82724762px;fill:#000000;stroke-width:9.60204601"
+         id="tspan6637">雨露17</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.34026718"
+     x="858.49884"
+     y="1490.3657"
+     id="text6653"
+     transform="scale(0.80354095,1.2444916)"><tspan
+       sodipodi:role="line"
+       x="858.49884"
+       y="1490.3657"
+       id="tspan6651"
+       style="stroke-width:9.34026718"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;fill:#000000;stroke-width:9.34026718"
+         id="tspan6649">雨露18</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 213.62425,239.46711 V 524.12696 H 639.39306 V 239.46711 Z"
+     id="path_t_雨露26"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 208.59225,236.15355 H 644.42503 V 527.44044 H 208.59225 Z m 9.98894,287.97341 -4.95694,-3.36369 h 425.76881 l -5.03202,3.36369 V 239.46711 l 5.03202,3.36368 H 213.62425 l 4.95694,-3.36368 z"
+     id="path6663"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 213.62425,528.64533 V 813.30524 H 639.39306 V 528.64533 Z"
+     id="path_t_雨露25"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 208.59225,525.33183 H 644.42503 V 816.61874 H 208.59225 Z m 9.98894,287.97341 -4.95694,-3.36377 h 425.76881 l -5.03202,3.36377 V 528.64533 l 5.03202,3.36371 H 213.62425 l 4.95694,-3.36371 z"
+     id="path6667"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="M 213.62425,816.51833 V 1101.128 H 639.39306 V 816.51833 Z"
+     id="path_t_雨露24"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 208.59225,813.15463 H 644.42503 V 1104.4918 H 208.59225 Z m 9.98894,287.97337 -4.95694,-3.3637 h 425.76881 l -5.03202,3.3637 V 816.51833 l 5.03202,3.31345 H 213.62425 l 4.95694,-3.31345 z"
+     id="path6671"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="m 213.62425,1099.3205 v 284.6099 h 425.76881 v -284.6099 z"
+     id="path_t_雨露23"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.06140517px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 208.59225,1095.957 h 435.83278 v 291.3369 H 208.59225 Z m 9.98894,287.9734 -4.95694,-3.3137 h 425.76881 l -5.03202,3.3137 v -284.6099 l 5.03202,3.3637 H 213.62425 l 4.95694,-3.3637 z"
+     id="path6675"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="m 213.62425,1387.1434 v 284.6598 h 425.84392 v -284.6598 z"
+     id="path_t_雨露22"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12281039px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 208.66737,1383.8298 h 435.75766 v 291.2869 H 208.66737 Z m 9.91382,287.9734 -4.95694,-3.3136 h 425.84392 l -5.10713,3.3136 v -284.6598 l 5.10713,3.4138 H 213.62425 l 4.95694,-3.4138 z"
+     id="path6679"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.1362834"
+     d="m 213.62425,1669.9958 v 284.6599 h 425.84392 v -284.6599 z"
+     id="path_t_雨露21"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.12281039px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 208.66737,1666.6823 h 435.75766 v 291.2869 H 208.66737 Z m 9.91382,287.9734 -4.95694,-3.414 h 425.84392 l -5.10713,3.414 v -284.6599 l 5.10713,3.3135 H 213.62425 l 4.95694,-3.3135 z"
+     id="path6683"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.34026718"
+     x="338.11716"
+     y="355.42676"
+     id="text6689"
+     transform="scale(0.80354095,1.2444916)"><tspan
+       sodipodi:role="line"
+       x="338.11716"
+       y="355.42676"
+       id="tspan6687"
+       style="stroke-width:9.34026718"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;fill:#000000;stroke-width:9.34026718"
+         id="tspan6685">雨露26</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.82724762px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.60204601"
+     x="346.95297"
+     y="566.93475"
+     id="text6701"
+     transform="scale(0.78163426,1.2793707)"><tspan
+       sodipodi:role="line"
+       x="346.95297"
+       y="566.93475"
+       id="tspan6699"
+       style="stroke-width:9.60204601"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:127.82724762px;fill:#000000;stroke-width:9.60204601"
+         id="tspan6697">雨露25</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:131.21961975px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.85687256"
+     x="347.61209"
+     y="773.96649"
+     id="text6713"
+     transform="scale(0.76142693,1.3133237)"><tspan
+       sodipodi:role="line"
+       x="347.61209"
+       y="773.96649"
+       id="tspan6711"
+       style="stroke-width:9.85687256"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:131.21961975px;fill:#000000;stroke-width:9.85687256"
+         id="tspan6709">雨露24</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.34026718"
+     x="337.49405"
+     y="1038.5416"
+     id="text6725"
+     transform="scale(0.80354095,1.2444916)"><tspan
+       sodipodi:role="line"
+       x="337.49405"
+       y="1038.5416"
+       id="tspan6723"
+       style="stroke-width:9.34026718"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;fill:#000000;stroke-width:9.34026718"
+         id="tspan6721">雨露23</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.34026718"
+     x="324.48953"
+     y="1274.9423"
+     id="text6737"
+     transform="scale(0.80354095,1.2444916)"><tspan
+       sodipodi:role="line"
+       x="324.48953"
+       y="1274.9423"
+       id="tspan6735"
+       style="stroke-width:9.34026718"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:124.34231567px;fill:#000000;stroke-width:9.34026718"
+         id="tspan6733">雨露22</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:117.06168365px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.79336548"
+     x="304.90308"
+     y="1586.759"
+     id="text6749"
+     transform="scale(0.85351708,1.1716227)"><tspan
+       sodipodi:role="line"
+       x="304.90308"
+       y="1586.759"
+       id="tspan6747"
+       style="stroke-width:8.79336548"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:117.06168365px;fill:#000000;stroke-width:8.79336548"
+         id="tspan6745">雨露21</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.68596411"
+     d="m 643.53955,2341.777 v 337.9429 H 1069.3831 V 2341.777 Z"
+     id="path_t_雨露19"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.13381158px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 638.58258,2337.8433 H 1074.34 v 345.8101 H 638.58258 Z m 10.06408,341.8766 -5.10711,-4.0527 h 425.84355 l -4.9569,4.0527 V 2341.777 l 4.9569,3.9331 H 643.53955 l 5.10711,-3.9331 z"
+     id="path6759"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 643.53955,2679.7199 v 252.1654 h 425.84355 v -252.1654 z"
+     id="path_t_V1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 638.73285,2676.6946 H 1074.34 v 258.2157 H 638.73285 Z m 9.91381,255.1907 -5.10711,-2.8476 h 425.99375 l -5.1071,2.8476 v -252.1654 l 5.1071,3.025 H 643.53955 l 5.10711,-3.025 z"
+     id="path6763"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:129.26756287px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.71023846"
+     x="893.62567"
+     y="1973.8964"
+     id="text6769"
+     transform="scale(0.77292512,1.2937864)"><tspan
+       sodipodi:role="line"
+       x="893.62567"
+       y="1973.8964"
+       id="tspan6767"
+       style="stroke-width:9.71023846"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:129.26756287px;fill:#000000;stroke-width:9.71023846"
+         id="tspan6765">雨露19</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:172.78421021px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.97909546"
+     x="810.25214"
+     y="2712.1289"
+     id="text6781"
+     transform="scale(0.94683377,1.0561516)"><tspan
+       sodipodi:role="line"
+       x="810.25214"
+       y="2712.1289"
+       id="tspan6779"
+       style="stroke-width:12.97909546"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:172.78421021px;fill:#000000;stroke-width:12.97909546"
+         id="tspan6777">V1</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.68596411"
+     d="m 213.94043,2344.1606 v 337.9428 h 425.84384 v -337.9428 z"
+     id="path_t_雨露20"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.13381158px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 208.98346,2340.2269 h 435.75777 v 345.8106 H 208.98346 Z m 10.06408,341.8765 -5.10711,-4.0528 h 425.84384 l -4.95686,4.0528 v -337.9428 l 4.95686,3.9337 H 213.94043 l 5.10711,-3.9337 z"
+     id="path6785"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 213.94043,2681.4994 v 252.1655 h 425.84384 v -252.1655 z"
+     id="path_t_V2"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 209.13372,2678.4741 h 435.60751 v 258.2161 H 209.13372 Z m 9.91382,255.1908 -5.10711,-2.8474 h 425.99411 l -5.10713,2.8474 v -252.1655 l 5.10713,3.0254 H 213.94043 l 5.10711,-3.0254 z"
+     id="path6789"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.82254791px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.45145798"
+     x="328.81366"
+     y="2030.7601"
+     id="text6795"
+     transform="scale(0.79408774,1.2593067)"><tspan
+       sodipodi:role="line"
+       x="328.81366"
+       y="2030.7601"
+       id="tspan6793"
+       style="stroke-width:9.45145798"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.82254791px;fill:#000000;stroke-width:9.45145798"
+         id="tspan6791">雨露20</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:146.65016174px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.01597309"
+     x="378.68011"
+     y="2652.9089"
+     id="text6807"
+     transform="scale(0.92615866,1.0797286)"><tspan
+       sodipodi:role="line"
+       x="378.68011"
+       y="2652.9089"
+       id="tspan6805"
+       style="stroke-width:11.01597309"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:146.65016174px;fill:#000000;stroke-width:11.01597309"
+         id="tspan6803">V2</tspan></tspan></text>
+  <path
+     style="fill:#a5a5a5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.38769817"
+     d="m 2293.8081,1366.8601 73.9705,-110.9093 v 55.4547 h 29.6301 v -166.5207 h 192.178 v 444.1069 h -192.178 v -166.5205 h -29.6301 v 55.4546 z"
+     id="path6809"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:#787878;stroke-width:0.1278422px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2288.9046,1366.8601 82.317,-123.5981 v 68.1435 l -3.443,-5.1696 h 29.6301 l -3.4428,5.1696 v -171.6901 h 199.0636 v 454.4459 h -199.0636 v -171.6901 l 3.4428,5.1696 h -29.6301 l 3.443,-5.1696 v 68.1435 z m 81.2737,107.4629 -5.9469,3.6028 v -60.7806 h 36.6202 v 171.8465 l -3.4429,-5.3261 h 192.178 l -3.5473,5.3261 v -444.1069 l 3.5473,5.1696 h -192.178 l 3.4429,-5.1696 v 171.6901 h -36.6202 v -60.6241 l 5.9469,3.6031 -73.8662,111.0656 v -7.3625 z"
+     id="path6811"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:119.76935577px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.38769817"
+     x="2994.8232"
+     y="1075.8539"
+     id="text6817"
+     transform="scale(0.81609315,1.2253503)"><tspan
+       sodipodi:role="line"
+       x="2994.8232"
+       y="1075.8539"
+       id="tspan6815"
+       style="stroke-width:6.38769817"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:119.76935577px;fill:#ffffff;stroke-width:6.38769817"
+         id="tspan6813">空</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:119.76935577px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.38769817"
+     x="2994.8232"
+     y="1209.8326"
+     id="text6823"
+     transform="scale(0.81609315,1.2253503)"><tspan
+       sodipodi:role="line"
+       x="2994.8232"
+       y="1209.8326"
+       id="tspan6821"
+       style="stroke-width:6.38769817"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:119.76935577px;fill:#ffffff;stroke-width:6.38769817"
+         id="tspan6819">调</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,240.84176 v 243.85268 h 425.3866 V 240.84176 Z"
+     id="path_t_阳光10"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,237.62316 h 435.601 v 250.28986 h -435.601 z m 9.9135,247.07128 -4.8065,-3.21856 h 425.3866 l -4.8063,3.21856 V 240.84176 l 4.8063,3.02918 h -425.3866 l 4.8065,-3.02918 z"
+     id="path6827"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,485.07307 v 243.85268 h 425.3866 V 485.07307 Z"
+     id="path_t_阳光09"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,481.85454 h 435.601 v 250.28977 h -435.601 z m 9.9135,247.07121 -4.8065,-3.21855 h 425.3866 l -4.8063,3.21855 V 485.07307 l 4.8063,3.02921 h -425.3866 l 4.8065,-3.02921 z"
+     id="path6831"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,727.97912 v 243.85267 h 425.3866 V 727.97912 Z"
+     id="path_t_阳光08"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,724.76056 h 435.601 v 250.28977 h -435.601 z m 9.9135,247.07123 -4.8065,-3.02923 h 425.3866 l -4.8063,3.02923 V 727.97912 l 4.8063,3.21854 h -425.3866 l 4.8065,-3.21854 z"
+     id="path6835"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,975.61836 v 244.04204 h 425.3866 V 975.61836 Z"
+     id="path_t_阳光07"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,972.58911 h 435.601 v 250.10039 h -435.601 z m 9.9135,247.07129 -4.8065,-3.2187 h 425.3866 l -4.8063,3.2187 V 975.61836 l 4.8063,3.21855 h -425.3866 l 4.8065,-3.21855 z"
+     id="path6839"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,1223.447 v 243.8526 h 425.3866 V 1223.447 Z"
+     id="path_t_阳光06"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,1220.2283 h 435.601 v 250.2898 h -435.601 z m 9.9135,247.0713 -4.8065,-3.2185 h 425.3866 l -4.8063,3.2185 V 1223.447 l 4.8063,3.0291 h -425.3866 l 4.8065,-3.0291 z"
+     id="path6843"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,1466.3529 v 243.8527 h 425.3866 v -243.8527 z"
+     id="path_t_阳光05"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,1463.1344 h 435.601 v 250.2897 h -435.601 z m 9.9135,247.0712 -4.8065,-3.0292 h 425.3866 l -4.8063,3.0292 v -243.8527 l 4.8063,3.2186 h -425.3866 l 4.8065,-3.2186 z"
+     id="path6847"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,1712.0989 v 244.042 h 425.3866 v -244.042 z"
+     id="path_t_阳光04"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,1709.0696 h 435.601 v 250.1006 h -435.601 z m 9.9135,247.0713 -4.8065,-3.2185 h 425.3866 l -4.8063,3.2185 v -244.042 l 4.8063,3.2186 h -425.3866 l 4.8065,-3.2186 z"
+     id="path6851"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2716.7661,1955.1943 v 243.8526 h 425.3866 v -243.8526 z"
+     id="path_t_阳光03"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2711.6591,1951.9756 h 435.601 v 250.2897 h -435.601 z m 9.9135,247.0713 -4.8065,-3.2185 h 425.3866 l -4.8063,3.2185 v -243.8526 l 4.8063,3.0292 h -425.3866 l 4.8065,-3.0292 z"
+     id="path6855"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2722.1733,2199.6149 v 244.0422 h 425.6876 v -244.0422 z"
+     id="path_t_阳光02"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2717.0664,2196.5858 h 435.6009 v 250.1005 h -435.6009 z m 10.214,247.0713 -5.1071,-3.2186 h 425.6876 l -5.1072,3.2186 v -244.0422 l 5.1072,3.2186 h -425.6876 l 5.1071,-3.2186 z"
+     id="path6859"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.95808268"
+     d="m 2724.2764,2441.3852 v 243.8524 h 425.3871 v -243.8524 z"
+     id="path_t_阳光01"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23848788px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2719.1694,2438.1664 H 3154.77 v 250.2899 h -435.6006 z m 9.9137,247.0712 -4.8067,-3.0291 h 425.3871 l -4.807,3.0291 v -243.8524 l 4.807,3.2185 h -425.3871 l 4.8067,-3.2185 z"
+     id="path6863"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.39518261"
+     x="3481.9353"
+     y="2087.0862"
+     id="text6869"
+     transform="scale(0.79883265,1.2518267)"><tspan
+       sodipodi:role="line"
+       x="3481.9353"
+       y="2087.0862"
+       id="tspan6867"
+       style="stroke-width:9.39518261"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;fill:#000000;stroke-width:9.39518261"
+         id="tspan6865">阳光01</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.39518261"
+     x="3481.9353"
+     y="1899.5483"
+     id="text6881"
+     transform="scale(0.79883265,1.2518267)"><tspan
+       sodipodi:role="line"
+       x="3481.9353"
+       y="1899.5483"
+       id="tspan6879"
+       style="stroke-width:9.39518261"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;fill:#000000;stroke-width:9.39518261"
+         id="tspan6877">阳光02</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:118.08028412px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.86988068"
+     x="3278.3752"
+     y="1793.6658"
+     id="text6893"
+     transform="scale(0.84614214,1.1818345)"><tspan
+       sodipodi:role="line"
+       x="3278.3752"
+       y="1793.6658"
+       id="tspan6891"
+       style="stroke-width:8.86988068"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:118.08028412px;fill:#000000;stroke-width:8.86988068"
+         id="tspan6889">阳光03</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:121.62709808px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.13630772"
+     x="3376.8508"
+     y="1547.59"
+     id="text6905"
+     transform="scale(0.82146746,1.2173337)"><tspan
+       sodipodi:role="line"
+       x="3376.8508"
+       y="1547.59"
+       id="tspan6903"
+       style="stroke-width:9.13630772"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:121.62709808px;fill:#000000;stroke-width:9.13630772"
+         id="tspan6901">阳光04</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:121.62709808px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.13630772"
+     x="3385.9949"
+     y="1337.8395"
+     id="text6917"
+     transform="scale(0.82146746,1.2173337)"><tspan
+       sodipodi:role="line"
+       x="3385.9949"
+       y="1337.8395"
+       id="tspan6915"
+       style="stroke-width:9.13630772"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:121.62709808px;fill:#000000;stroke-width:9.13630772"
+         id="tspan6913">阳光05</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.39518261"
+     x="3481.9353"
+     y="1112.5459"
+     id="text6929"
+     transform="scale(0.79883265,1.2518267)"><tspan
+       sodipodi:role="line"
+       x="3481.9353"
+       y="1112.5459"
+       id="tspan6927"
+       style="stroke-width:9.39518261"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;fill:#000000;stroke-width:9.39518261"
+         id="tspan6925">阳光06</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.39518261"
+     x="3472.5317"
+     y="915.47827"
+     id="text6941"
+     transform="scale(0.79883265,1.2518267)"><tspan
+       sodipodi:role="line"
+       x="3472.5317"
+       y="915.47827"
+       id="tspan6939"
+       style="stroke-width:9.39518261"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:125.07338715px;fill:#000000;stroke-width:9.39518261"
+         id="tspan6937">阳光07</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:121.62709808px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.13630772"
+     x="3376.8508"
+     y="733.3631"
+     id="text6953"
+     transform="scale(0.82146746,1.2173337)"><tspan
+       sodipodi:role="line"
+       x="3376.8508"
+       y="733.3631"
+       id="tspan6951"
+       style="stroke-width:9.13630772"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:121.62709808px;fill:#000000;stroke-width:9.13630772"
+         id="tspan6949">阳光08</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:128.4271698px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.64711094"
+     x="3575.3013"
+     y="506.27249"
+     id="text6965"
+     transform="scale(0.7779716,1.285394)"><tspan
+       sodipodi:role="line"
+       x="3575.3013"
+       y="506.27249"
+       id="tspan6963"
+       style="stroke-width:9.64711094"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:128.4271698px;fill:#000000;stroke-width:9.64711094"
+         id="tspan6961">阳光09</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:118.08028412px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.86988068"
+     x="3287.2534"
+     y="338.2225"
+     id="text6977"
+     transform="scale(0.84614214,1.1818345)"><tspan
+       sodipodi:role="line"
+       x="3287.2534"
+       y="338.2225"
+       id="tspan6975"
+       style="stroke-width:8.86988068"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:118.08028412px;fill:#000000;stroke-width:8.86988068"
+         id="tspan6973">阳光10</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,223.55699 v 229.20882 h 425.694 V 223.55699 Z"
+     id="path_t_阳光11"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,220.53167 h 435.6078 V 455.7911 h -435.6078 z m 10.2148,232.23414 -5.1073,-3.02529 h 425.694 l -5.1073,3.02529 V 223.55699 l 5.1073,2.84728 h -425.694 l 5.1073,-2.84728 z"
+     id="path6987"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,453.12169 v 229.2088 h 425.694 v -229.2088 z"
+     id="path_t_阳光12"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,450.09643 h 435.6078 v 235.25934 h -435.6078 z m 10.2148,232.23406 -5.1073,-3.02525 h 425.694 l -5.1073,3.02525 v -229.2088 l 5.1073,2.84732 h -425.694 l 5.1073,-2.84732 z"
+     id="path6991"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,681.44071 v 229.2088 h 425.694 v -229.2088 z"
+     id="path_t_阳光13"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,678.41544 h 435.6078 v 235.25934 h -435.6078 z m 10.2148,232.23407 -5.1073,-2.84731 h 425.694 l -5.1073,2.84731 v -229.2088 l 5.1073,3.02528 h -425.694 l 5.1073,-3.02528 z"
+     id="path6995"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,914.20868 v 229.38672 h 425.694 V 914.20868 Z"
+     id="path_t_阳光14"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,911.36134 h 435.6078 v 235.08156 h -435.6078 z m 10.2148,232.23406 -5.1073,-3.0253 h 425.694 l -5.1073,3.0253 V 914.20868 l 5.1073,3.0253 h -425.694 l 5.1073,-3.0253 z"
+     id="path6999"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,1147.1547 v 229.2087 h 425.694 v -229.2087 z"
+     id="path_t_阳光15"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,1144.1293 h 435.6078 v 235.2594 h -435.6078 z m 10.2148,232.2341 -5.1073,-3.0253 h 425.694 l -5.1073,3.0253 v -229.2087 l 5.1073,2.8472 h -425.694 l 5.1073,-2.8472 z"
+     id="path7003"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,1375.4736 v 229.2088 h 425.694 v -229.2088 z"
+     id="path_t_阳光16"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,1372.4483 h 435.6078 v 235.2594 h -435.6078 z m 10.2148,232.2341 -5.1073,-2.8472 h 425.694 l -5.1073,2.8472 v -229.2088 l 5.1073,3.0253 h -425.694 l 5.1073,-3.0253 z"
+     id="path7007"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,1606.4619 v 229.3869 h 425.694 v -229.3869 z"
+     id="path_t_阳光17"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,1603.6147 h 435.6078 v 235.0813 h -435.6078 z m 10.2148,232.2341 -5.1073,-3.0253 h 425.694 l -5.1073,3.0253 v -229.3869 l 5.1073,3.0253 h -425.694 l 5.1073,-3.0253 z"
+     id="path7011"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3484.4606,1834.9589 v 229.2089 h 425.694 v -229.2089 z"
+     id="path_t_阳光18"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3479.3531,1831.9338 h 435.6078 v 235.2592 h -435.6078 z m 10.2148,232.234 -5.1073,-3.0253 h 425.694 l -5.1073,3.0253 v -229.2089 l 5.1073,2.8474 h -425.694 l 5.1073,-2.8474 z"
+     id="path7015"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3489.8682,2064.7016 v 229.3868 h 425.6929 v -229.3868 z"
+     id="path_t_阳光19"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3485.0614,2061.8543 h 435.6073 v 235.0816 h -435.6073 z m 9.9141,232.2341 -5.1073,-3.0252 h 425.6929 l -5.1065,3.0252 v -229.3868 l 5.1065,3.0253 h -425.6929 l 5.1073,-3.0253 z"
+     id="path7019"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3491.9709,2291.953 v 229.2086 h 425.6934 V 2291.953 Z"
+     id="path_t_阳光20"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3486.8637,2288.9276 h 435.6076 v 235.2594 h -435.6076 z m 10.2146,232.234 -5.1074,-2.8471 h 425.6934 l -5.1067,2.8471 V 2291.953 l 5.1067,3.0253 h -425.6934 l 5.1074,-3.0253 z"
+     id="path7023"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.47038269px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.74894905"
+     x="4137.4023"
+     y="2107.5713"
+     id="text7029"
+     transform="scale(0.85785021,1.1657047)"><tspan
+       sodipodi:role="line"
+       x="4137.4023"
+       y="2107.5713"
+       id="tspan7027"
+       style="stroke-width:8.74894905"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.47038269px;fill:#000000;stroke-width:8.74894905"
+         id="tspan7025">阳光20</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.01895332"
+     x="4265.0884"
+     y="1859.9138"
+     id="text7041"
+     transform="scale(0.83216846,1.2016798)"><tspan
+       sodipodi:role="line"
+       x="4265.0884"
+       y="1859.9138"
+       id="tspan7039"
+       style="stroke-width:9.01895332"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;fill:#000000;stroke-width:9.01895332"
+         id="tspan7037">阳光19</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:112.76145172px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.47034264"
+     x="3997.1721"
+     y="1765.5459"
+     id="text7053"
+     transform="scale(0.88606665,1.1285833)"><tspan
+       sodipodi:role="line"
+       x="3997.1721"
+       y="1765.5459"
+       id="tspan7051"
+       style="stroke-width:8.47034264"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:112.76145172px;fill:#000000;stroke-width:8.47034264"
+         id="tspan7049">阳光18</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:126.94873047px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.53605461"
+     x="4500.0879"
+     y="1391.0426"
+     id="text7065"
+     transform="scale(0.78704337,1.270578)"><tspan
+       sodipodi:role="line"
+       x="4500.0879"
+       y="1391.0426"
+       id="tspan7063"
+       style="stroke-width:9.53605461"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:126.94873047px;fill:#000000;stroke-width:9.53605461"
+         id="tspan7061">阳光17</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.01895332"
+     x="4265.0884"
+     y="1288.2856"
+     id="text7077"
+     transform="scale(0.83216846,1.2016798)"><tspan
+       sodipodi:role="line"
+       x="4265.0884"
+       y="1288.2856"
+       id="tspan7075"
+       style="stroke-width:9.01895332"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;fill:#000000;stroke-width:9.01895332"
+         id="tspan7073">阳光16</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.01895332"
+     x="4265.0884"
+     y="1088.3226"
+     id="text7089"
+     transform="scale(0.83216846,1.2016798)"><tspan
+       sodipodi:role="line"
+       x="4265.0884"
+       y="1088.3226"
+       id="tspan7087"
+       style="stroke-width:9.01895332"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;fill:#000000;stroke-width:9.01895332"
+         id="tspan7085">阳光15</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:123.55472565px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.281106"
+     x="4379.7764"
+     y="870.11804"
+     id="text7101"
+     transform="scale(0.80866315,1.2366088)"><tspan
+       sodipodi:role="line"
+       x="4379.7764"
+       y="870.11804"
+       id="tspan7099"
+       style="stroke-width:9.281106"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:123.55472565px;fill:#000000;stroke-width:9.281106"
+         id="tspan7097">阳光14</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.01895332"
+     x="4256.064"
+     y="696.37677"
+     id="text7113"
+     transform="scale(0.83216846,1.2016798)"><tspan
+       sodipodi:role="line"
+       x="4256.064"
+       y="696.37677"
+       id="tspan7111"
+       style="stroke-width:9.01895332"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:120.06481171px;fill:#000000;stroke-width:9.01895332"
+         id="tspan7109">阳光13</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:123.55472565px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.281106"
+     x="4389.063"
+     y="494.51996"
+     id="text7125"
+     transform="scale(0.80866315,1.2366088)"><tspan
+       sodipodi:role="line"
+       x="4389.063"
+       y="494.51996"
+       id="tspan7123"
+       style="stroke-width:9.281106"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:123.55472565px;fill:#000000;stroke-width:9.281106"
+         id="tspan7121">阳光12</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.47038269px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.74894905"
+     x="4137.4023"
+     y="337.21771"
+     id="text7137"
+     transform="scale(0.85785021,1.1657047)"><tspan
+       sodipodi:role="line"
+       x="4137.4023"
+       y="337.21771"
+       id="tspan7135"
+       style="stroke-width:8.74894905"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.47038269px;fill:#000000;stroke-width:8.74894905"
+         id="tspan7133">阳光11</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3489.8682,2521.1616 v 229.3869 h 425.6929 v -229.3869 z"
+     id="path_t_阳光21"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3485.0614,2518.3145 h 435.6073 v 235.0815 h -435.6073 z m 9.9141,232.234 -5.1073,-3.025 h 425.6929 l -5.1065,3.025 v -229.3869 l 5.1065,3.0254 h -425.6929 l 5.1073,-3.0254 z"
+     id="path7147"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.77645731"
+     d="m 3491.9709,2748.4129 v 229.2088 h 425.6934 v -229.2088 z"
+     id="path_t_阳光22"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#70ad47;fill-opacity:1;fill-rule:nonzero;stroke:#70ad47;stroke-width:0.23121783px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3486.8637,2745.3881 h 435.6076 v 235.259 h -435.6076 z m 10.2146,232.2336 -5.1074,-2.8472 h 425.6934 l -5.1067,2.8472 v -229.2088 l 5.1067,3.0253 h -425.6934 l 5.1074,-3.0253 z"
+     id="path7151"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.47038269px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.74894905"
+     x="4137.4023"
+     y="2499.1462"
+     id="text7157"
+     transform="scale(0.85785021,1.1657047)"><tspan
+       sodipodi:role="line"
+       x="4137.4023"
+       y="2499.1462"
+       id="tspan7155"
+       style="stroke-width:8.74894905"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:116.47038269px;fill:#000000;stroke-width:8.74894905"
+         id="tspan7153">阳光22</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:123.55472565px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.281106"
+     x="4389.063"
+     y="2175.5981"
+     id="text7169"
+     transform="scale(0.80866315,1.2366088)"><tspan
+       sodipodi:role="line"
+       x="4389.063"
+       y="2175.5981"
+       id="tspan7167"
+       style="stroke-width:9.281106"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:123.55472565px;fill:#000000;stroke-width:9.281106"
+         id="tspan7165">阳光21</tspan></tspan></text>
+</svg>
